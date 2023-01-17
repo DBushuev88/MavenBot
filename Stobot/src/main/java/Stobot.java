@@ -16,7 +16,7 @@ public class Stobot extends TelegramLongPollingBot {
      */
     @Override
     public String getBotToken() {
-        return "1270860855:AAFjMLPUajhZQQJAQ-CXNJikgnSGqrfSc6M";
+        return "token";
     }
 
     /**
@@ -51,6 +51,6 @@ public class Stobot extends TelegramLongPollingBot {
      */
     @Override
     public String getBotUsername() {
-        return "Java_minebot";
+        return "bot_name";
     }
 }
