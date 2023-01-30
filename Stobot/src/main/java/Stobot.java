@@ -97,12 +97,12 @@ public class Stobot extends TelegramLongPollingBot {
 
     public String getBotUsername() {
         //было NULL, вставил имя бота в ""
-        return "Java_minebot";
+        return "";
     }
 
 
     public String getBotToken() {
         //было NULL, вставил токен бота в ""
-        return "1270860855:AAFjMLPUajhZQQJAQ-CXNJikgnSGqrfSc6M";
+        return "";
     }
 }
